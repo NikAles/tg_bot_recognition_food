@@ -103,7 +103,7 @@ python bot.py
 
 **Выход:**
 
-![Выход](bot_tg\tg_bot_recognition_food\answer.PNG)
+![Выход](image/answer.PNG)
 
 Бот также вернёт изображение с этим текстом в подписи.
 
